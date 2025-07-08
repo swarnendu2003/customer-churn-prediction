@@ -8,3 +8,4 @@ lightgbm
 streamlit
 flask
 ipykernel
+imbalanced-learn
